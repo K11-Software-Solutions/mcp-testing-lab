@@ -1,0 +1,14 @@
+{
+  "notes": {
+    "version": "1.0.0",
+    "tools": "cd92b926a5d12c96"
+  },
+  "mailer": {
+    "version": "1.0.0",
+    "tools": "a30486283a3484a4"
+  },
+  "calculator": {
+    "version": "1.0.0",
+    "tools": "26595961111ef414"
+  }
+}

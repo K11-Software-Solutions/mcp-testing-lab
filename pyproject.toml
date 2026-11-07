@@ -1,0 +1,11 @@
+[project]
+name = "mcp-testing-lab"
+version = "1.0.0"
+description = "Testing MCP servers and the tool supply chain: protocol conformance, schema drift, tool poisoning, rug pulls, cross-server shadowing, name collisions and leaky errors, with client-side defences and CI gates."
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-ra"

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or its articles, please cite it as below."
+type: software
+title: "MCP Testing Lab"
+abstract: "Test the Model Context Protocol supply chain: server conformance and contract stability, tool poisoning (invisible and paraphrased), rug pulls, cross-server shadowing and tool-name collisions, with host defences red-teamed one by one. No API key needed."
+authors:
+  - family-names: Jadhav
+    given-names: Kavita
+    affiliation: K11 Software Solutions
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD here and in .zenodo.json
+repository-code: "https://github.com/K11-Software-Solutions/mcp-testing-lab"
+url: "https://github.com/K11-Software-Solutions/mcp-testing-lab"
+version: "1.0.0"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - mcp
+  - model-context-protocol
+  - ai-agents
+  - tool-poisoning
+  - ai-security
+  - supply-chain-security
+  - ai-quality-engineering
+  - agent-testing
+  - llm-security
+# After the first Zenodo release, add the concept DOI (it always resolves to the latest version):
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: Concept DOI (all versions)

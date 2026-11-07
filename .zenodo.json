@@ -1,0 +1,24 @@
+{
+  "title": "MCP Testing Lab",
+  "description": "Test the Model Context Protocol supply chain: server conformance and contract stability, tool poisoning (invisible and paraphrased), rug pulls, cross-server shadowing and tool-name collisions, with host defences red-teamed one by one. No API key needed.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Jadhav, Kavita",
+      "affiliation": "K11 Software Solutions"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai-agents",
+    "tool-poisoning",
+    "ai-security",
+    "supply-chain-security",
+    "ai-quality-engineering",
+    "agent-testing",
+    "llm-security"
+  ],
+  "notes": "Code is licensed under MIT; the written material (articles/) is licensed under CC BY 4.0. All servers, users, keys and addresses are fictional; the agent is simulated."
+}
